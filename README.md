@@ -15,3 +15,6 @@ This repo provides resources for the resampling homework.
 
 * `sine.wav`: 1KHz sine wave at half-amplitude. 48000 sps
   16-bit WAV file.
+
+* `synth.wav`: High-frequency synthesizer track at
+  half-amplitude. 48000 sps 16-bit WAV file.
