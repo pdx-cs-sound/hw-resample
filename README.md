@@ -18,3 +18,7 @@ This repo provides resources for the resampling homework.
 
 * `synth.wav`: High-frequency synthesizer track at
   half-amplitude. 48000 sps 16-bit WAV file.
+
+* `fifths.wav`: 440Hz A[1], E[2], and all the harmonics
+  until 22Khz. 48000 sps 16-bit WAV file. Useful for
+  evaluation.
